@@ -74,7 +74,7 @@ color: var(--color-iris);
 }
 .header-list-item:hover,
 .header-list-item:focus {
-color: var(--color-ocean);
+color: #404bbf;
 }
 
 .header-navig {
@@ -177,6 +177,7 @@ line-height:1.11;
 letter-spacing: 0.02em;
 text-align: center;
 text-transform: capitalize;
+color: var(--color-navy-blue);
 }
 .doing-list {
 }
