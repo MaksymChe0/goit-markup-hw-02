@@ -90,7 +90,7 @@ color: var(--color-ocean);
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--color-ocean);
+    color: #404bbf;
 }
 
 .header-address {
@@ -196,7 +196,7 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 text-transform: capitalize;
-color: var(--color-navy-blue);
+color: #2e2f42;
 }
 .team-list {
 }
